@@ -1,0 +1,1 @@
+This project is to set up a basic website with links to a few of my favorite recipes. This will demonstrate my ability to code basic HTML functions like links and basic website structure.
